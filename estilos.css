@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    text-decoration: line-through;
+
+    background-color: rgb(167, 92, 92);
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    
+}
+h1{
+    text-align: center;
+    color:forestgreen;
+    background-color: beige;
+    width: max-content;
+    margin-top: auto;
+
+    
+}
